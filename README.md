@@ -1,0 +1,2 @@
+# Database---Project
+We, group of three created a mini - database from scratch which stores information about cricket (A sport). The kind of expaosure was awesome, was closely working for this project. We divided the entire project into 4 phases. Phase - 1: Entity Model, Phase 2: Converting Entity Model to Relational Model, Phase - 3:  Optimizing to 3rd  Normal form , Phase-4: Built CLI interface and populated the database created in MySql. The options provided are meticulous.
